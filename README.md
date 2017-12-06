@@ -1,11 +1,3 @@
-# README net-investissement.fr 
-
-* Site de proposition de placement defiscalisation
-
-
-### Configurations
-Zend 1.12.3
-MySQL
 
 ### Git Usage
 
